@@ -14,7 +14,7 @@ A collection of ".bat" scripts to manage Windows Firewall rules focused on:
 - Block/unblock IP addresses (IN/OUT).
 - Block/unblock ports (TCP/UDP).
 - Detect and block **Adobe** executables from internet access by creating program-specific rules.
----
+![SeparatingLine](https://i.imgur.com/waxVImv.png)
 
 ## Language Support
 This project includes versions in separate files:
