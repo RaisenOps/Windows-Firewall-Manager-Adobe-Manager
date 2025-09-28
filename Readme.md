@@ -4,7 +4,6 @@
 
 ![Windows Firewall](https://img.shields.io/badge/Windows%20Firewall-Manager-0078D4?logo=github&logoColor=white)
 ![Supported Languages](https://img.shields.io/badge/Supported_Languages-EN,_ES,_FR,_IT,_PT-green?logo=googletranslate&logoColor=white)
-![Windows Firewall](https://img.shields.io/badge/Windows%20Firewall-Manager-0078D4?logo=windows&logoColor=green)
 ![Adobe](https://img.shields.io/badge/Adobe-Block_Manager-ff2d00?logo=adobe&logoColor=white)
 ![Compatibility](https://img.shields.io/badge/Windows-All_Versions-blue?logo=windows&logoColor=white)
 ![Server Support](https://img.shields.io/badge/Windows_Server-Supported-lightgrey)
