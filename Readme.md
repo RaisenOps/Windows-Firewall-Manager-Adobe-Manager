@@ -10,7 +10,7 @@
 
 </div>
 
-A collection of ".bat" scripts to manage Windows Firewall rules focused on:
+A collection of “.bat” scripts for securely managing Windows Firewall rules, focusing on:
 - Block/unblock IP addresses (IN/OUT).
 - Block/unblock ports (TCP/UDP).
 - Detect and block **Adobe** executables from internet access by creating program-specific rules.
@@ -61,7 +61,7 @@ Found this tool useful? Here's how you can support the project:
 
 **Share** with others who might benefit from this tool
 
-[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager&title=Windows%20Firewall%20Manager%20for%20Adobe%20Apps)
+[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager&title=Windows%20Firewall%20Manager%20for%20Adobe%20Apps)
 [![Share on Hacker News](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager)
 [![Share on Twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager&text=Check%20out%20this%20Windows%20Firewall%20Manager%20for%20Adobe%20Apps!)
 [![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager)
