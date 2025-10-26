@@ -25,7 +25,7 @@ This project includes versions in separate files:
 - `firewall-manager-pt.bat` - Portuguese (PT)
 
 ## Preview
-![Main Menu](screenshots/MainMenu.png)
+<img width="1104" height="625" alt="image" src="https://github.com/user-attachments/assets/676dd7ef-6a16-4bd8-a30c-0b756df39057" />
 
 ## Compatibility
 - **Windows**: All versions (7, 8, 8.1, 10, 11)
