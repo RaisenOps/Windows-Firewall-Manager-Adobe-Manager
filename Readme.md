@@ -10,7 +10,7 @@
 
 </div>
 
-A collection of “.bat” scripts for securely managing Windows Firewall rules, focusing on:
+A collection of “.bat” scripts for **securely managing** Windows Firewall rules, focusing on:
 - Block/unblock IP addresses (IN/OUT).
 - Block/unblock ports (TCP/UDP).
 - Detect and block **Adobe** executables from internet access by creating program-specific rules.
