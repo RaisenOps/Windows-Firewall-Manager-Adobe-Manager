@@ -46,13 +46,24 @@ This project includes versions in separate files:
    - **Windows Terminal** (recommended)
    - **Command Prompt (CMD)**
    - **PowerShell**
-4. Navigate to the file location using "**cd**" and run file
+4. Navigate to the file location using **'cd'** to run the file:
+
+   Opcion 1:
+      ```powershell
+      cd ~\Downloads
+      .\firewall-manager-en.bat
+      ```
+      
+   Opcion 2:
+   
+    ```powershell
+    cd C:\Users\YourName\Downloads
+    .\firewall-manager-en.bat
+    ```
 ---
 
-## Contributing & Support
+## Contributing
 
-Found this tool useful? Here's how you can support the project:
-- **Star this repository ⭐** if it was helpful to you
 - **Report bugs 🐞**, share ideas, request features, or suggest improvements via [Issues](../../issues)
 - **Contributions and PRs are welcome.**
 ---
@@ -66,3 +77,10 @@ Found this tool useful? Here's how you can support the project:
 [![Share on Twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager&text=Check%20out%20this%20Windows%20Firewall%20Manager%20for%20Adobe%20Apps!)
 [![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager)
 [![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/RaisenOps/Windows-Firewall-Manager-Adobe-Manager&title=Windows%20Firewall%20Manager%20for%20Adobe%20Apps)
+
+---
+
+<div align="center">
+  <p>If this helps you, consider giving it a ⭐</p>
+  <p>Made with ❤️ for you</p>
+</div>
